@@ -3,10 +3,11 @@ Ce dépôt GitHub est un projet dédié au traitement automatique du langage nat
 
 Les dossiers de ce dépôt incluent :
 
-data : contient les données utilisées pour entraîner et tester les modèles.
-models : contient les modèles NLP pré-entraînés et les scripts pour les entraîner.
-notebooks : contient des notebooks Jupyter pour explorer les données et entraîner les modèles.
-src : contient des scripts pour charger les données, entraîner les modèles et effectuer des prédictions.
+## data : contient les données utilisées pour entraîner et tester les modèles.
+## models : contient les modèles NLP pré-entraînés et les scripts pour les entraîner.
+## notebooks : contient des notebooks Jupyter pour explorer les données et entraîner les modèles.
+## src : contient des scripts pour charger les données, entraîner les modèles et effectuer des prédictions.
+
 Pour utiliser les modèles pré-entraînés, vous pouvez charger un modèle à partir du dossier models et l'utiliser pour effectuer des prédictions sur de nouvelles données. Vous pouvez également utiliser les scripts dans le dossier src pour automatiser ce processus.
 
 Si vous souhaitez entraîner vos propres modèles, vous pouvez utiliser les notebooks dans le dossier notebooks pour explorer les données et expérimenter avec différentes architectures de modèles. Vous pouvez également utiliser les scripts dans le dossier src pour automatiser le processus d'entraînement. Il est recommandé d'avoir des connaissances en NLP et en apprentissage automatique pour utiliser efficacement ce dépôt.
